@@ -19,6 +19,7 @@ Sphinx是一款基于Spring Boot + Mybatis + Mybatis Plus搭建的快速开发�
  * 工具类：Apache Commons、Jackson、Xstream、
  * 后端渲染模板引擎: Thymeleaf
  * 序列化框架 FastJson
+ * Webservice 采用CXF
 
 2.前端
 
