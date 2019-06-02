@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "ifast.file.static-access-path",
+    "type": "java.lang.String",
+    "description": "A description for 'ifast.file.static-access-path'"
+  },
+  {
+    "name": "ifast.file.upload-folder",
+    "type": "java.lang.String",
+    "description": "A description for 'ifast.file.upload-folder'"
+  },
+  {
+    "name": "ifast.project-root-uRL",
+    "type": "java.lang.String",
+    "description": "A description for 'ifast.project-root-uRL'"
+  }
+]}
